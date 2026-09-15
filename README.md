@@ -54,6 +54,6 @@ Serve the repository with `python -m http.server 8000 --bind 127.0.0.1` and open
 
 The original layout and Joana's photos are preserved. Shared LinkedIn links point to her CV identity, featured slides link to her real repositories, and portfolio filters match the four cards. The contact action opens an email composer; no message is sent through a template vendor's PHP endpoint.
 
-[Content and link audit](docs/link-audit.md) records missing assets/routes repaired during the September 2026 review. Charts in featured slides are saved figures from Joana's project repositories. Their source READMEs explain the historical results and limitations.
+[Link reference](docs/link-audit.md) records the local page and asset checks. Charts in featured slides are saved figures from Joana's project repositories. Their source READMEs explain the historical results and limitations.
 
-The existing Vercel URL is linked above. A GitHub push alone does not prove that its deployment refreshed. No separate LICENSE file is present; this README does not assign a new license to the inherited template or its assets.
+The deployed site is linked above. No separate LICENSE file is included. The inherited template and assets retain their original ownership.
